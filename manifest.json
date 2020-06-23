@@ -1,0 +1,16 @@
+{
+    "name": "Lawan Covid-19",
+    "short_name": "Lawan COVID-19",
+    "description": "ini adalah web berbasis PWA pertama yang saya buat",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "/image/covid-19.svg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
